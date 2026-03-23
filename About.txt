@@ -1,0 +1,12 @@
+Tat language materials in this repository were collected, structured, and
+provided by Ramiz Sharif (Azerbaijan) in 2024–2026 as part of an initiative
+for Tat language preservation, digitalization, and future use in Artificial
+Intelligence and language technologies.
+
+This repository represents an early structured digital collection of Tat
+language materials prepared for open use in research, education, and
+technology development.
+
+Author: Ramiz Sharif
+Country: Azerbaijan
+Year: 2024–2026
